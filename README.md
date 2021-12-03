@@ -10,4 +10,4 @@ This Portal experience is based on Battlefield 4's Gun Master mode and tries to 
 
 ## Feedback & bugs
 
-Please use [discussions](discussions) if you want to provide feedback or suggest changes. Report bugs via [issues](issues). Thank you 😄
+Please use [discussions](https://github.com/svenjacobs/bf2042-portal-gun-master/discussions) if you want to provide feedback or suggest changes. Report bugs via [issues](https://github.com/svenjacobs/bf2042-portal-gun-master/issues). Thank you 😄
