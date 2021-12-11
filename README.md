@@ -8,6 +8,26 @@ The experience code is **AAMMMN**.
 
 This Portal experience is based on Battlefield 4's Gun Master mode and tries to mimic it as close as possible. However it solely uses BF2042 weapons.
 
+## Weapons
+
+1. M5A3
+2. AK-24
+3. AC-42
+4. PBX-45
+5. MP9
+6. PP-29
+7. LCMG
+8. PKP-BP
+9. DM7
+10. 12M Auto
+11. SWS-10
+12. SVK
+13. MCS-800
+14. DXR-1
+15. G57
+16. M44
+17. Knife
+
 ## FAQ
 
 * **Why can't I use weapon attachments?**  
