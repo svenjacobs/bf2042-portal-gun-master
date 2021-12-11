@@ -24,7 +24,7 @@ In Gun Master every player reaches the next weapon level after two kills. The fi
 10. 12M Auto
 11. SWS-10
 12. SVK
-13. MCS-800
+13. MCS-880
 14. DXR-1
 15. G57
 16. M44
