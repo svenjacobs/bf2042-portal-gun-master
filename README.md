@@ -8,7 +8,9 @@ The experience code is **AAMMMN**.
 
 This Portal experience is based on Battlefield 4's Gun Master mode and tries to mimic it as close as possible. However it solely uses BF2042 weapons.
 
-## Weapons
+In Gun Master every player reaches the next weapon level after two kills. The final 17th weapon level is the knife. The first player that kills another player with the knife wins the round.
+
+## Weapon levels
 
 1. M5A3
 2. AK-24
