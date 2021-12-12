@@ -39,7 +39,7 @@ In Gun Master every player reaches the next weapon level after two kills. The fi
   Some specialists like Casper for example have abilities that can't be disabled via Portal. To ensure a fair game only BF3 characters can be selected.
 
 * **Why do I die so fast? / Why does my health not regenerate?**  
-  This is a hardcore setting. Damage is increased and health regeneration disabled.
+  This is a hardcore setting. Damage is increased and health regeneration over time is disabled.
 
 ## Feedback & bugs
 
